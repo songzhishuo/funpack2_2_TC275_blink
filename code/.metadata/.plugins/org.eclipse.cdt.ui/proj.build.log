@@ -1,0 +1,7 @@
+21:58:21 **** Clean-only build of configuration Debug for project proj ****
+make --output-sync -j16 clean 
+find . ! -name "*.mk" ! -name "makefile" ! -name "." -type f -delete 
+ 
+
+21:58:21 Build Finished. 0 errors, 0 warnings. (took 581ms)
+

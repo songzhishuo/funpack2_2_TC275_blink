@@ -1,0 +1,12 @@
+{
+	"group"					: "project-initializer",	
+	"name"					: "tricore-tc2xx",
+	"releaseTimestamp"		: 1654502660,
+	"version"				: 2,
+	"versionName"			: "1.1",
+	"versionCompatibility"	: [],
+	"info"					: {
+		"illd_version"		: "1.0.1.12",
+		"release_reason"	: "Updated support to TASKING Debugging (sync_on_halt.c)"
+	}
+}
